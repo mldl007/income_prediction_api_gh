@@ -1,0 +1,36 @@
+feature,importance
+is_single,0.46307153
+education_num,0.064920954
+relationship_ Own-child,0.05042011
+capital_gain,0.04799759
+occupation_ Exec-managerial,0.036840715
+marital_status_ Married-civ-spouse,0.029596165
+occupation_ Prof-specialty,0.02784773
+occupation_ Other-service,0.027295496
+age,0.02378357
+capital_loss,0.01889127
+sex_ Female,0.017749619
+relationship_rare_category,0.015518844
+hours_per_week,0.015093696
+occupation_ Adm-clerical,0.0121984985
+race_ White,0.011818247
+relationship_ Not-in-family,0.011008147
+marital_status_ Never-married,0.010437393
+occupation_rare_category,0.009737839
+workclass_ Self-emp-not-inc,0.009453006
+workclass_rare_category,0.00917275
+country_ United-States,0.008190496
+race_ Black,0.0076376186
+workclass_ Private,0.007357159
+education_group_high_school,0.0066947634
+relationship_marital_ Own-child Never-married,0.0062995595
+age_of_first_edu,0.00590806
+education,0.0057953694
+education_group_college,0.0057467762
+race_rare_category,0.0057038493
+fnlwgt,0.005448137
+occupation_ Sales,0.005127732
+education_group_rare_category,0.0049574347
+occupation_ Craft-repair,0.0046369503
+relationship_marital_ Husband Married-civ-spouse,0.0040548774
+relationship_marital_rare_category,0.0035880853
